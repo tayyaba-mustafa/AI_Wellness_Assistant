@@ -1,4 +1,5 @@
 groq
+git+https://github.com/groq-ai/groq.git
 gtts
 streamlit
 matplotlib
